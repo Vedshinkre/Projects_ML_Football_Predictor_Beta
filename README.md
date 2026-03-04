@@ -1,4 +1,4 @@
-# Projects_Machine_Learning_Football_Predictor
+# Projects_Machine_Learning_Football_Predictor_Beta
 ## Why I Chose This Project 
 Football has been a passion of mine since childhood. I grew up watching matches and idolizing FC Barcelona, immersing myself in the beautiful game and its endless intricacies. Analyzing teams, debating strategies, and predicting outcomes became second nature to me. 
 
